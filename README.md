@@ -7,17 +7,26 @@ This is the public roadmap for the https://builderius.io site builder for WordPr
 Knowing about upcoming features and our priorities helps our users to plan their projects better. This repository contains information about what we are working on and allows all users to give direct feedback.
 
 * [See the Builderius roadmap »](https://github.com/builderius/builderius/projects/1)
-* [Submit bug or feature »](https://github.com/builderius/builderius/issues)
+* [Submit bug »](https://github.com/builderius/builderius/issues)
+* [Submit feature request »](https://github.com/builderius/builderius/discussions)
 
 ## Contributing to the roadmap / bug tracker
 
-We welcome both feature requests and bug reports via the "Issues" items.
+### Submit your feature request via the "Discussions" items!
+
+
+1. Click "Discussions" in the nav panel just below the repository title
+2. Click "New discussion"
+3. Explain your request in details, so we could understand the use case.
+4. Click "Submit"
+
+### Submit your bug reports via the "Issues" items.
 
 1. Click "Issues" in the nav panel just below the repository title
 2. Click "New Issue"
-3. Click "Feature Request" or "Bug Report" depending on what type of request you are submitting
-4. Add a title that briefly describes the feature/bug.
-5. Explain your request in details, so we could understand the use case for features or reproduce the issue in case you are submitting a bug report.
+3. Click "Bug Report"
+4. Add a title that briefly describes the bug.
+5. Explain your request in details, so we could understand the use case and reproduce the issue in case you are submitting a bug report. Images/videos ar emore than welocome!
 6. Click "Submit new issue"
 
 What to do next/to expect from us:
