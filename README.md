@@ -2,15 +2,14 @@
 
 ## Introduction
 
-This is the public roadmap for the https://builderius.io site builder for WordPress.
+The public roadmap for Builderius site builder for WordPress: https://docs.builderius.io/roadmap
 
 Knowing about upcoming features and our priorities helps our users to plan their projects better. This repository contains information about what we are working on and allows all users to give direct feedback.
 
-* [See the Builderius roadmap »](https://github.com/builderius/builderius/projects/1)
 * [Submit bug »](https://github.com/builderius/builderius/issues)
 * [Submit feature request »](https://github.com/builderius/builderius/discussions)
 
-## Contributing to the roadmap / bug tracker
+## Contributing to the bug tracker
 
 ### Submit your feature request via the "Discussions" items!
 
